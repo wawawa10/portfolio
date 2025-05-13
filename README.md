@@ -1,2 +1,1 @@
-# portfolio
-#　ポートフォリオ/tamayu/index.html
+# ポートフォリオ/tamayu/index.html
